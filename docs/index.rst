@@ -6,7 +6,7 @@
 Test Project
 ============
 
-Master branch
+v.0.5-dev branch
 
 
 .. toctree::
